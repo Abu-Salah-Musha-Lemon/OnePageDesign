@@ -44,7 +44,7 @@ ul {
 }
 /*-head-*/
 .background-h {
-  background: url(top.png) no-repeat;
+  background: url(https://www.chemvm.com/hubfs/Blog%20images/Tidal%20wave%20larger%202500x1524%20%28eNewsletter%20Image%29.png) no-repeat;
   background-size: 100%;
 }
 .header {
@@ -226,7 +226,7 @@ i {
 
 /*-about-*/
 .about {
-  background: url(img2.png) no-repeat;
+  background: url(https://images.pexels.com/photos/67386/pexels-photo-67386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat;
   background-size: 100%;
 }
 
@@ -289,6 +289,12 @@ i {
 }
 .main-card-0 {
   display: flex;
+}
+.img-our-team{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid white;
 }
 .card {
   width: 260px;
